@@ -179,7 +179,9 @@ li {
   line-height: 1.625rem;
 }
 .btn {
-  padding: 1rem 2rem;
+  width: 134px;
+  height: 42px;
+  padding: 0.5rem 1rem;
   border: 2px solid white;
   background-color: transparent;
   border-radius: 5px;
